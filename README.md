@@ -1,5 +1,6 @@
 # SmartPredict-Machine-Failure-Detection
 This project aims to predict machine failures using sensor data to enable proactive maintenance. Models such as Random Forest, SVM, and CNN were implemented, with SVM achieving the best accuracy. The models can help reduce downtime and costs by predicting failures, supporting real-time maintenance in industrial settings.
+
 **Some visuals**-
 ![image](https://github.com/user-attachments/assets/a2ba973d-73cd-4cdb-858a-d73920e1d0c8)
 ![image](https://github.com/user-attachments/assets/f8df9b3e-4227-421c-b826-05a500a700ae)
